@@ -1,0 +1,13 @@
+C:\Users\erida\AppData\Local\Temporary Projects\BrewCalibCollect\bin\Debug\BrewCalibCollect.exe.config
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\bin\Debug\BrewCalibCollect.exe.config
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\bin\Debug\BrewCalibCollect.exe
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\bin\Debug\BrewCalibCollect.pdb
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\bin\Debug\BrewCalibCollect.xml
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\obj\Debug\BrewCalibCollect.vbprojResolveAssemblyReference.cache
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\obj\Debug\BrewCalibCollect.Resources.resources
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\obj\Debug\BrewCalibCollect.vbproj.GenerateResource.Cache
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\obj\Debug\BrewCalibCollect.exe
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\obj\Debug\BrewCalibCollect.xml
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\obj\Debug\BrewCalibCollect.pdb
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\obj\Debug\Interop.MaxIm.dll
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\BrewCalibCollect\BrewCalibCollect\obj\Debug\BrewCalibCollect.vbproj.ResolveComReference.cache
