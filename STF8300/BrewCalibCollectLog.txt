@@ -1,0 +1,21 @@
+ 
+==========================================
+Starting calibration collection at 9/7/2015 6:47:25 PM
+Calibration folder is C:\Users\erida\Dropbox\BrewSky\Programs\BrewCalibCollect\STF8300
+Average method is 1
+Group DARK|1x1|300|-10|NOFILTER|3352x2532
+  Master Files:
+  Sub Files:
+    dark-10-001-300-1-.fit
+    dark-10-002-300-1-.fit
+    dark-10-003-300-1-.fit
+  
+Starting AutoIt with 3 frames
+AutoIt timed out
+Removed Subframe dark-10-001-300-1-.fit
+Remove failed for file dark-10-001-300-1-.fit
+Removed Subframe dark-10-002-300-1-.fit
+Remove failed for file dark-10-002-300-1-.fit
+Removed Subframe dark-10-003-300-1-.fit
+Remove failed for file dark-10-003-300-1-.fit
+============ Script completed ==============
